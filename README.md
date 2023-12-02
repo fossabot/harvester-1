@@ -1,4 +1,5 @@
 # Harvester ![Running CI](https://github.com/beatlabs/harvester/workflows/Running%20CI/badge.svg) [![Coverage Status](https://coveralls.io/repos/github/beatlabs/harvester/badge.svg?branch=master)](https://coveralls.io/github/beatlabs/harvester?branch=master) [![Go Report Card](https://goreportcard.com/badge/github.com/beatlabs/harvester)](https://goreportcard.com/report/github.com/beatlabs/harvester) [![GoDoc](https://godoc.org/github.com/beatlabs/harvester?status.svg)](https://godoc.org/github.com/beatlabs/harvester) ![GitHub release](https://img.shields.io/github/release/beatlabs/harvester.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmantzas%2Fharvester.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmantzas%2Fharvester?ref=badge_shield)
 
 `Harvester` is a configuration library which helps setting up and monitoring configuration values in order to dynamically
 reconfigure your application.
@@ -135,3 +136,7 @@ See [Contribution Guidelines](CONTRIBUTE.md).
 ## Code of conduct
 
 Please note that this project is released with a [Contributor Code of Conduct](https://www.contributor-covenant.org/adopters). By participating in this project and its community you agree to abide by those terms.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmantzas%2Fharvester.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmantzas%2Fharvester?ref=badge_large)
